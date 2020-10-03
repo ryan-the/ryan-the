@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My GitHub Account for school related projects...
-
 <!--
 **ryan-the/ryan-the** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
